@@ -74,7 +74,7 @@ figcaption {
     <h2> Links to useful resources </h2>
     <ol class="links">
     <li > <a class="link_address" href="https://whatis.techtarget.com/definition/metadata" target ="_blank"> First link </a></li>
-      <li> <a class="link_address" href="https://en.wikipedia.org/wiki/Metadata" target="_blank"> Second link </aa> </li>
+      <li> <a class="link_address" href="https://en.wikipedia.org/wiki/Metadata" target="_blank"> Second link </a> </li>
     <li> <a class="link_address" href="https://www.youtube.com/watch?v=L0vOg18ncWE" target="_blank"> Third link </a> </li>
   </div>
 
