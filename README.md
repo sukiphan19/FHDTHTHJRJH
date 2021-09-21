@@ -19,13 +19,11 @@ h2 {
   }
 
 .p {  
-  font-family: Helvetica;
   font-size: 16px;
   color:#001314;
  } 
 
 figcaption {  
-  font-family: Helvetica;
   font-size: 14px;
   font-style: italic;
   color:#001314;
